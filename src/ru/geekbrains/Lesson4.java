@@ -1,6 +1,7 @@
 package ru.geekbrains;
 
 public class Lesson4 {
+    
     static volatile char c = 'A';
     static Object mon = new Object();
 
