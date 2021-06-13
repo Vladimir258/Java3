@@ -3,6 +3,6 @@ package ru.geekbrains;
 public class Main {
 
     public static void main(String[] args) {
-	    Lesson1.l1();
+	    Lesson4.l4();
     }
 }
